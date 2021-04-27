@@ -1,0 +1,7 @@
+.mat-list-item {
+    color: #002347;
+}
+
+.mat-list-item:hover {
+    color: #fdc632;
+}
